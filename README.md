@@ -23,5 +23,4 @@ This repository contains the implementation of a **Buy One Get One Free (BOGO)**
 > Example: Buy 1 item of Product A, get another Product A free.  
 > Or: Buy 2 from a category, get 1 of equal or lesser value free.
 
-## 📂 Folder Structure
 
